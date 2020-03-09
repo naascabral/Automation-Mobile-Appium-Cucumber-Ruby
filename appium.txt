@@ -1,0 +1,5 @@
+[caps]
+platformName = "Android"
+deviceName = 'Nexus_5X_API_25'
+app = "./build/cadastro_clientes_teste.apk"
+autoGrantPermissions = true
